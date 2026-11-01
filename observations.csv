@@ -1,0 +1,1 @@
+record_id,observed_at,timezone,platform,access_method,model_or_mode,web_search_enabled,prompt_group,prompt_id,prompt_version,prompt_text,answer_text,cited_urls,brand_mentioned,recommended,official_site_cited,factual_errors,reviewer_notes
